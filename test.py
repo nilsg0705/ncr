@@ -10,5 +10,5 @@ print("Siste endring")
 
 print("Endret fra Nils-Test")
 
-print("Flere endringer, men pushet på annen måte")
+print("Flere endringer, men pushe på annen måte")
 
