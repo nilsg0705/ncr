@@ -11,3 +11,6 @@ print("Endret fra Nils-Test")
 print("Flere endringer, men pushe på annen måte")
 
 print("Her har det skjedd noe nytt i nebbet")
+
+def metode(n):
+    print(str(n))
