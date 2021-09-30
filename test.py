@@ -17,3 +17,5 @@ def metode(n):
 
 def hei(n):
     print(n)
+
+print("Hei")
