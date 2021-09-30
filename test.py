@@ -15,7 +15,4 @@ print("Her har det skjedd noe nytt i nebbet")
 def metode(n):
     print(str(n))
 
-def hei(n):
-    print(n)
 
-print("Hei")
