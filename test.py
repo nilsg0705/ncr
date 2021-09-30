@@ -16,3 +16,5 @@ def metode(n):
     print(str(n))
 
 
+print("Dette er en sjuk endring!")
+
